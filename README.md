@@ -22,3 +22,8 @@ Nueva contraseña:   caracas2026.
                          
                             
 👩🏽‍💻 **Acceso SSH	root - Deshabilitado
+
+
+
+Para descargar el archivo .ova de la màquina virtual: [PRESIONE AQUI](https://drive.google.com/file/d/1pQlpwS_7q3-2L2eInPTwOQyezaMrJPsi/view?usp=sharing)
+Para acceder a las evidencias recolectadas: [PRESIONE AQUÌ](https://drive.google.com/drive/folders/1vOASv2oO4YkLGOsCSxKm9qC0PdcS5g15?usp=sharing)
